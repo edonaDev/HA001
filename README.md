@@ -13,3 +13,4 @@
 
 ### Verejtje: ###
 Per te vazhduar tutje, ju duhet keto vegla/aplikacione ti keni ne dispozicion.
+# A new line is added
